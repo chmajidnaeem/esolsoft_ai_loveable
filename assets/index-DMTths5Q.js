@@ -1,0 +1,1 @@
+import{j as s}from"./index-BxixYDWf.js";import{H as t,S as o,A as r,P as a,a as x,C as e}from"./sections-Cf5gLbf1.js";function i(){return s.jsxs(s.Fragment,{children:[s.jsx(t,{}),s.jsx(o,{}),s.jsx(r,{}),s.jsx(a,{}),s.jsx(x,{}),s.jsx(e,{})]})}export{i as component};
